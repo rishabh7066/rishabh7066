@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RISHABH SHARMA</h1>
-<h3 align="center">Aspiring Software Engineer | Focused on development, logic, and innovation</h3>
+<h3 align="center">Aspiring Software Engineer | Focused on development, Logic, and Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh7066&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh7066" /> </p>
 
